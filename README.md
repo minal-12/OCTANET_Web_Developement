@@ -1,23 +1,25 @@
-# OCTANET_Web_Developement
+# OCTANET_Web_Development
+
 This is a repository of tasks assigned to me during my internship in web development at Octanet Services Pvt Ltd.
 
+# Task 1: Landing Page - Green Garden Nursery
 
-# Task 1: Landing Page
+This project is a landing page designed as part of the OCTANET Web Development tasks. The landing page is built using HTML, CSS, and Bootstrap.
 
-This project is a landing page designed as part of the OCTANET Web Development tasks. The landing page is built using HTML, CSS.
+![Green Garden Nursery Landing Page](Task_1_Landing_page/Screenshot.png)
 
 ## Features
 
 - **Responsive Design**: The landing page is fully responsive and works well on different screen sizes.
 - **Modern UI/UX**: Designed with a modern user interface and user experience in mind.
 - **Interactive Elements**: Includes interactive elements such as buttons, hover effects, and form inputs.
-
+- **Parallax Effect**: The page features a parallax scrolling effect to create a visually appealing experience.
 
 ## Technologies Used
 
 - **HTML**: Structure of the webpage.
 - **CSS**: Styling and layout of the webpage.
-
+- **Bootstrap**: Responsive design and components.
 
 ## Installation
 
