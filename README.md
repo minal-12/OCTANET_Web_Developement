@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
  The To-Do List is built using HTML, CSS, and Javascript.
 
-![To-Do List](Task_2_To-Do List/Screenshot.png)
+![To-Do List](Task_2_To_Do List/Screenshot.png)
 
 ## Features
 
@@ -59,5 +59,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
  [  git clone https://github.com/minal-12/OCTANET_Web_Developement.git](https://github.com/minal-12/OCTANET_Web_Developement/tree/main/Task_2_To_Do_List)
-2. Link:
-   https://greengardennursery.netlify.app/
+
