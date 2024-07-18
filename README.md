@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
  The To-Do List is built using HTML, CSS, and Javascript.
 
-![To-Do List](Task_2_To_Do List/Screenshot.png)
+![To-Do List](Task_2_To_Do_List/Screenshot.png)
 
 ## Features
 
