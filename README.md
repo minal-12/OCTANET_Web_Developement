@@ -58,5 +58,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
- [  git clone https://github.com/minal-12/OCTANET_Web_Developement.git](https://github.com/minal-12/OCTANET_Web_Developement/tree/main/Task_2_To_Do_List)
+ git clone https://github.com/minal-12/OCTANET_Web_Developement.git
 
